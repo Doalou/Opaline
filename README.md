@@ -1,1 +1,1 @@
-# rmxbot
+# Opaline - Discord Multifunction Bot
