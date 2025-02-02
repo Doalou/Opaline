@@ -1,0 +1,71 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# Fichiers de configuration sensible
+.env
+*.env
+config.py
+
+# Fichiers de l'éditeur
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+*.code-workspace
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers de logs et de données
+*.log
+logs/
+data/
+
+# Fichiers de test
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Fichiers de build et déploiement
+deploy/
+*.exe
+*.dll
+*.bin
+*.deb
+*.app
+*.msi
+*.msix
+*.msm
+*.msp
+*.zip
+*.tar.gz
+*.rar
